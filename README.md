@@ -1,5 +1,7 @@
 # go-textwrapper
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/tiagomelo/go-textwrapper.svg)](https://pkg.go.dev/github.com/tiagomelo/go-textwrapper)
+
 ![logo](logo.png)
 
 This tiny module provides a convenient way to wrap text in [Go](go.dev) apps.
